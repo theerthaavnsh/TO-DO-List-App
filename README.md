@@ -26,3 +26,6 @@ Collaboration: Users will be able to collaborate with others on their tasks, mak
 Contributing
 We welcome contributions to the To Do List App repository. If you find any issues with the app or would like to add a new feature, please create a new branch, make your changes, and submit a pull request.
 
+License
+The To Do List App is open-source software licensed under the MIT License. Feel free to use this app for personal or commercial use.
+
