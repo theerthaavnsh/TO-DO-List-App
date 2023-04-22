@@ -17,5 +17,12 @@ Calendar view: The app has a calendar view that displays all the tasks for a giv
 Mark tasks as completed: Users can mark tasks as completed once they have completed the task.
 Strike off completed tasks: Completed tasks are automatically struck off, making it easy for users to see which tasks are pending.
 
+Future Enhancements
+We plan to add more features to the app in the future, including:
 
+Task reminders: Users will be able to set reminders for their tasks, ensuring that they never miss a deadline.
+Sorting and filtering: Users will be able to sort their tasks by due date, priority, or category, making it easier to manage their to-do lists.
+Collaboration: Users will be able to collaborate with others on their tasks, making it easier to complete tasks that require teamwork.
+Contributing
+We welcome contributions to the To Do List App repository. If you find any issues with the app or would like to add a new feature, please create a new branch, make your changes, and submit a pull request.
 
