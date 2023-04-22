@@ -9,6 +9,13 @@ To get started with the app, simply clone this repository to your local machine 
 Once you have the repository on your local machine, you can run the app using an emulator or on a physical device. To run the app, execute the following command:
 flutter run
 
+Features
+The To Do List App comes with the following features:
+
+Add tasks: Users can add tasks to their to-do list by entering the task details and saving it to the app.
+Calendar view: The app has a calendar view that displays all the tasks for a given day or week, helping users to keep track of their tasks.
+Mark tasks as completed: Users can mark tasks as completed once they have completed the task.
+Strike off completed tasks: Completed tasks are automatically struck off, making it easy for users to see which tasks are pending.
 
 
 
